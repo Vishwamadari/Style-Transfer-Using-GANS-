@@ -1,4 +1,4 @@
-# Image Style-Transfer-Using-GANS
+# Image Style-Transfer-Using-Genrative-Adversal-Networks
 
 
 ○ Developed a web application using Streamlit and deep learning to automatically colorize black and white images, improving visual quality and user accessibility.
